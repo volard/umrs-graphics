@@ -1,0 +1,9 @@
+* TODO create movement duration graph
+Average Movement Duration:
+Description: A box plot showing the distribution of movement durations across different demographics. This can highlight variations in travel times based on age, gender, or income level.
+Usefulness: Understanding movement duration can help identify areas where travel times are excessively long, indicating potential issues with transportation infrastructure.
+
+* DONE create graph about an amount of movements during a day
+Time of Day Movement Patterns:
+Description: A line graph or bar chart showing the number of movements at different times of the day (e.g., morning, afternoon, evening). You can break this down by age group or gender to see if there are any significant differences in movement patterns.
+Usefulness: This can reveal peak travel times and help in planning for traffic management or public transport schedules.
